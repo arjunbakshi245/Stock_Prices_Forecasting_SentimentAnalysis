@@ -1,0 +1,14 @@
+
+LINKS												               COMMENTS
+
+https://colah.github.io/posts/2015-08-Understanding-LSTMs/                                		   -   Colahs blog on RNN and LSTM
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/                                      		   -   Stanford PPT lecture. More about applications
+https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/   		   -   Coding focused
+https://www.youtube.com/watch?v=UbvkhuqVqUI&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=58 		   -   Simple LSTM Univariate Code
+https://lionbridge.ai/datasets/top-10-stock-market-datasets-for-machine-learning/            	           -   Datasets for Stocks
+https://nostalgebraist.tumblr.com/post/185326092369/1-classic-fully-connected-neural-networks-these	   -   Transforers Explained - BERT
+
+DATA SET LINKS											    COMMENTS
+https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs			(Rich Data Large Size)
+https://www.kaggle.com/uciml/istanbul-stock-exchange                                            (Columns Names Complex)
+https://www.kaggle.com/aaron7sun/stocknews?select=upload_DJIA_table.csv  			(Smaller size 7X36)
